@@ -19,7 +19,7 @@ public class CustomDummyModContainer extends DummyModContainer {
 		data.modId = "koreanchatmod";
 		data.name = "Korean Chat Mod";
 		data.description = "Korean chat mod.";
-		data.version = "1.0";
+		data.version = "0.2.0";
 		data.url = "http://redlaboratory.tistory.com/";
 		data.authorList = Arrays.asList(new String[] {"RedLaboratory"});
 		data.credits = "The mod to give a fuction to type korean characters.";

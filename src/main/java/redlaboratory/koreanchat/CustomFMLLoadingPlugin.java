@@ -9,7 +9,7 @@ import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.MCVersion;
 @MCVersion(value = CustomFMLLoadingPlugin.VERSION)
 public class CustomFMLLoadingPlugin implements IFMLLoadingPlugin {
 	
-	public static final String VERSION = "1.10.2";
+	public static final String VERSION = "1.11";
 	public static File location;
 	
 	@Override

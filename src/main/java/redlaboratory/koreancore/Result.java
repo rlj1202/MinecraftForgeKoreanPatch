@@ -1,4 +1,4 @@
-package redlaboratory.koreanchat;
+package redlaboratory.koreancore;
 
 public class Result {
 	
